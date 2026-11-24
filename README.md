@@ -16,15 +16,15 @@ leslie-rivera-abogada/
 ├── css/styles.css              # Estilos (variables de color al inicio)
 ├── js/main.js                  # Menú, animaciones, formulario → WhatsApp, medición
 └── assets/
-    ├── favicon.svg, apple-touch-icon.png, icon-192/512.png
+    ├── favicon.png (foto en círculo), apple-touch-icon.png, icon-192/512.png
     └── img/
         ├── leslie-rivera.jpg / .webp  # Foto (reemplazar por una en alta calidad)
         └── og-image.jpg               # Imagen al compartir en WhatsApp/Facebook (1200×630)
 ```
 
-## ⚠️ Antes de publicar: dominio
-Todas las URLs absolutas usan **`https://leslieriveraabogada.com`**.
-Si el dominio final es otro, búscalo y reemplázalo en: `index.html`, `politica-de-privacidad.html`,
+## Dominio
+Todas las URLs absolutas usan **`https://leslie-rivera-abogada.vercel.app`**.
+Si más adelante se compra un dominio propio, búscalo y reemplázalo en: `index.html`, `politica-de-privacidad.html`,
 `robots.txt` y `sitemap.xml` (en VS Code: Ctrl+Shift+H).
 
 ## SEO incluido

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://leslieriveraabogada.com/sitemap.xml
+Sitemap: https://leslie-rivera-abogada.vercel.app/sitemap.xml
